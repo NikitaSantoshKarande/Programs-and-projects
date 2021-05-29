@@ -45,21 +45,40 @@ nav ul li a{
     font-size: small;
 }
 main{
-    height: calc(120vh - 10vh - 20vh);
-    background-color:darkgray;
+    height: calc(225vh - 10vh - 20vh);
 }
-main div img{
-    height: 55vh;
-    width: 100vw;
-}
-main div{
-    display: block;
-    height: 50vh;
-    background-color: white;
+.slider{
+    width: 85vw;
+    margin: 0px 35px;
     overflow: hidden;
-    justify-content: center;
+}
+.card{
+    max-width:98vw;
+    height: 50vh;
+    margin: auto;
+    background-color: gainsboro;
+    display: flex;
+}
+.my-2{
+    margin: 15px 0;
+}
+.center{
+    text-align: center;
+    font-size: small;
+}
+.line{
+    width: 10vw;
+}
+.cards{
     align-items: center;
-    
+    justify-content: center;
+}
+.card-item{
+    width: 10vw;
+    flex-direction: column;
+    margin: 0 15px;
+    display: inline-flex;
+    justify-content: center;
 }
 .text-center{
     /* text-align: center; */
