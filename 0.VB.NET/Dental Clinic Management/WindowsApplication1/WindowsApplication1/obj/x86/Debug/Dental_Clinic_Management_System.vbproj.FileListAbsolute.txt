@@ -1,0 +1,81 @@
+E:\project\Asp p\fork_Asp_project\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\project\Asp p\fork_Asp_project\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\project\Asp p\fork_Asp_project\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\project\Asp p\fork_Asp_project\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Frm_Dental_Clinic_Management_System_Main_Form.resources
+E:\project\Asp p\fork_Asp_project\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\project\Asp p\fork_Asp_project\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Dental_Clinic_Management_System.vbproj.GenerateResource.Cache
+E:\project\Asp p\fork_Asp_project\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+E:\project\Asp p\fork_Asp_project\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+E:\project\Asp p\fork_Asp_project\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+E:\project\Asp p\fork_Asp_project\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Frm_Doctor.resources
+E:\project\Asp p\fork_Asp_project\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Frm_Specialization.resources
+E:\project\Asp p\fork_Asp_project\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Frm_Add_Doctor_Details.resources
+E:\project\Asp p\fork_Asp_project\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Frm_Update_Doctor_Details.resources
+E:\project\Asp p\fork_Asp_project\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Frm_View_Doctor_Details.resources
+E:\project\Asp p\fork_Asp_project\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Frm_Attend_Patient_Details.resources
+E:\project\Asp p\fork_Asp_project\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Frm_Patient.resources
+E:\project\Asp p\fork_Asp_project\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Frm_Search_Patient_Details.resources
+E:\project\Asp p\fork_Asp_project\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Frm_View_Patient_Details.resources
+E:\project\Asp p\fork_Asp_project\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Frm_Add_Appointment_Details.resources
+E:\project\Asp p\fork_Asp_project\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Frm_Appointment.resources
+E:\project\Asp p\fork_Asp_project\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Frm_Serach_Appointment_Details.resources
+E:\project\Asp p\fork_Asp_project\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Frm_Update_Appointment_Details.resources
+E:\project\Asp p\fork_Asp_project\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Frm_View_Appointment_Details.resources
+E:\project\Asp p\fork_Asp_project\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Frm_Add_Employee_Details.resources
+E:\project\Asp p\fork_Asp_project\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Frm_Empolyee.resources
+E:\project\Asp p\fork_Asp_project\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Frm_Search_Employee_Details.resources
+E:\project\Asp p\fork_Asp_project\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Frm_Update_Employee_Details.resources
+E:\project\Asp p\fork_Asp_project\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Frm_View_Employee_Details.resources
+E:\project\Asp p\fork_Asp_project\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Frm_Login.resources
+E:\project\Asp p\fork_Asp_project\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Frm_Add_Lab_Details.resources
+E:\project\Asp p\fork_Asp_project\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Frm_Lab.resources
+E:\project\Asp p\fork_Asp_project\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Frm_Search_Lab_Details.resources
+E:\project\Asp p\fork_Asp_project\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Frm_Update_Lab_Details.resources
+E:\project\Asp p\fork_Asp_project\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Frm_View_Lab_Details.resources
+E:\project\Asp p\fork_Asp_project\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Frm_Priscription.resources
+C:\Users\Nikita\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Nikita\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Nikita\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Nikita\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Nikita\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Frm_Add_Appointment_Details.resources
+C:\Users\Nikita\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Frm_Add_Doctor_Details.resources
+C:\Users\Nikita\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Frm_Add_Employee_Details.resources
+C:\Users\Nikita\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Frm_Add_Lab_Details.resources
+C:\Users\Nikita\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Frm_Appointment.resources
+C:\Users\Nikita\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Frm_Attend_Patient_Details.resources
+C:\Users\Nikita\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Frm_Dental_Clinic_Management_System_Main_Form.resources
+C:\Users\Nikita\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Frm_Doctor.resources
+C:\Users\Nikita\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Frm_Empolyee.resources
+C:\Users\Nikita\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Frm_Lab.resources
+C:\Users\Nikita\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Frm_Login.resources
+C:\Users\Nikita\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Nikita\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Frm_Patient.resources
+C:\Users\Nikita\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Frm_Priscription.resources
+C:\Users\Nikita\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Frm_Search_Doctor_Details.resources
+C:\Users\Nikita\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Frm_Search_Employee_Details.resources
+C:\Users\Nikita\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Frm_Search_Lab_Details.resources
+C:\Users\Nikita\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Frm_Serach_Appointment_Details.resources
+C:\Users\Nikita\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Frm_Update_Appointment_Details.resources
+C:\Users\Nikita\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Frm_Update_Doctor_Details.resources
+C:\Users\Nikita\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Frm_Update_Employee_Details.resources
+C:\Users\Nikita\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Frm_Update_Lab_Details.resources
+C:\Users\Nikita\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Frm_View_Appointment_Details.resources
+C:\Users\Nikita\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Frm_View_Doctor_Details.resources
+C:\Users\Nikita\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Frm_View_Employee_Details.resources
+C:\Users\Nikita\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Frm_View_Lab_Details.resources
+C:\Users\Nikita\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Frm_View_Patient_Details.resources
+C:\Users\Nikita\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Dental_Clinic_Management_System.vbproj.GenerateResource.Cache
+C:\Users\Nikita\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Nikita\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Nikita\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Nikita\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Frm_Specialization_Charges.resources
+C:\Users\Nikita\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Frm_Test_Cases_Charges.resources
+C:\Users\Nikita\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Frm_View_Prescription_Details.resources
+C:\Users\Nikita\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Dental_Clinic_Management_System.vbprojResolveAssemblyReference.cache
+C:\Users\Nikita\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Report.resources
+C:\Users\Nikita\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frm_Attend_Patient_rpt.resources
+C:\Users\Nikita\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Lab_Report.resources
+C:\Users\Nikita\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Lab_Report_wf.resources
+C:\Users\Nikita\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frm_Prescription_report.resources
+C:\Users\Nikita\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Frm_doctor_Report.resources
+C:\Users\Nikita\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Frm_Employee_Report.resources
