@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head th:replace="website/common/layout :: header-link"></head>
+
+<body>
+	<div th:replace="website/common/layout :: navbar"></div>
+	
+  <!-- Start main-content -->
+  <div class="main-content">
+    <!-- Section: inner-header -->
+    <section class="inner-header divider parallax layer-overlay overlay-white-8" data-bg-img="/website/assets/images/bg/bg6.jpg">
+      <div class="container pt-60 pb-60">
+        <!-- Section Content -->
+        <div class="section-content">
+          <div class="row">
+            <div class="col-md-12 text-center">
+              <h2 class="title">Coupons</h2>
+              <ol class="breadcrumb text-center text-black mt-10">
+                <li><a href="#">Home</a></li>
+                <li class="active text-theme-colored">Coupons</li>
+              </ol>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="pricing" class="bg-silver-light">
+      <div class="container pb-50">
+        <div class="section-content mt-20">
+          <div class="row">
+            <div class="col-xs-12 col-sm-6 col-md-4 hvr-float-shadow mb-sm-30 wow fadeInLeft animation-delay1" th:each="coupan: ${couponList}">
+              <div class="pricing-table border-3px border-theme-colored bg-white text-center">
+                <div class="p-40 bg-white">
+                  <h3 class="package-type font-24 text-uppercase" th:text="${coupan.couponName}"></h3>
+                   <h4 class="discount">Use Below Code</h4>
+                  <h2 class="price text-theme-colored mb-10" th:text="${coupan.couponCode}"></h2>
+            <hr>
+<!--                   <a class="btn btn-colored btn-theme-colored text-uppercase mt-30" href="#">Request an Appointment</a> -->
+				<span>Coupon End Date :</span>&nbsp;<span th:text="${coupan.endDate}"></span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+</div>
+</body>
+<div th:replace="website/common/layout :: footer"></div>
+<div th:replace="website/common/layout :: footer-link"></div>
+<script>
+		$("#contact_form").submit(() => {
+			window.location = "/contact";
+		});
+	</script>
+</html>

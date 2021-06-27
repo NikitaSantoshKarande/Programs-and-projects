@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head th:replace="website/common/layout :: header-link"></head>
+
+<body>
+	<div th:replace="website/common/layout :: navbar"></div>
+	
+  <!-- Start main-content -->
+  <div class="main-content">
+    <!-- Section: inner-header -->
+    <section class="inner-header divider parallax layer-overlay overlay-white-8" data-bg-img="/website/assets/images/bg/bg6.jpg">
+      <div class="container pt-60 pb-60">
+        <!-- Section Content -->
+        <div class="section-content">
+          <div class="row">
+            <div class="col-md-12 text-center">
+              <h2 class="title">Medical Services</h2>
+              <ol class="breadcrumb text-center text-black mt-10">
+                <li><a href="#">Home</a></li>
+                <li class="active text-theme-colored">Medical Services</li>
+              </ol>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="services">
+      <div class="container pb-40">
+        <div class="section-content">
+          <div class="row" >
+           <div class="col-xs-12 col-sm-6 col-md-4" th:each="medicalService: ${medicalServiceList}">
+              <div class="text-center mb-30 p-20 pt-40 pb-40 bg-white-f9">
+               <img  th:src="@{'/uploads/medical-service/' + ${medicalService.serviceImage}}" style="border-radius:48%" alt="" width="130px" height="130px">
+                <h3 class="mt-20" th:text="${medicalService.serviceTitle}"></h3>
+                <p th:text="${medicalService.serviceDescription}"></p>
+              </div>
+            </div>          
+          </div>
+        </div>
+      </div>
+    </section>
+</div>
+</body>
+<div th:replace="website/common/layout :: footer"></div>
+<div th:replace="website/common/layout :: footer-link"></div>
+<script>
+		$("#contact_form").submit(() => {
+			window.location = "/contact";
+		});
+	</script>
+</html>
