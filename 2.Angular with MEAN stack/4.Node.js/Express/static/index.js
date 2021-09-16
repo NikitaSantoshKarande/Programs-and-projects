@@ -1,1 +1,0 @@
-console.log("Nikita is good girl");
